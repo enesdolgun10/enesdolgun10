@@ -24,7 +24,7 @@ I am currently focusing on Python. I am working to improve my proficiency in adv
 ## ⚡ Technologies I Know
 
 - **Programming Languages:** C, C++, Java (OOP), PHP, JavaScript, TypeScript (basic), Python (advanced learning), C# (beginner)
-- **Database:** SQL (primarily MSSQL)
+- **Database:** SQL
 - **Web Technologies:** HTML5, CSS3, React
 - **Tools & Workflows:** Git, GitHub, VS Code
 - **Other:** Responsive Design, Clean Code Principles
