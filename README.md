@@ -14,7 +14,7 @@ I am currently focusing on Python. I am working to improve my proficiency in adv
 🔗 &nbsp;**Connect with me :**
 
 <p align="left">
-<a href="[https://www.linkedin.com/enesdolgun10](https://www.linkedin.com/in/enesdolgun10/)" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="enesdolgun" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/enesdolgun10/" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="enesdolgun" height="40" width="40" /></a>
 <a href="mailto:enesdolgun33@gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="enesdolgun" height="40" width="40" /></a>
 <a href="https://instagram.com/enesdolgun10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enesdolgun" height="40" width="40" /></a>
 </p>
